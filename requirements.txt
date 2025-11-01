@@ -55,3 +55,5 @@ urllib3==2.5.0
 uvicorn==0.25.0
 
 watchfiles==1.1.1
+
+pydantic[email]==2.12.3
